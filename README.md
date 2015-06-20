@@ -2,8 +2,8 @@
 swimctrl
 ========
 
-Swimmingpool Control
-====================
+Swimming Pool Control
+=====================
 
 Simple program to manage your swimming pool, it will help you to control the quality of the water and it will recommend you about quantities of chemical products you have to add to the water
 
