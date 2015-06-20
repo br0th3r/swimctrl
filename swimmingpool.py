@@ -406,6 +406,12 @@ elif action=='actions':
     print "- Add {0} ml of 'flocculant' once a week and make purificator work for 8 hours".format(flocculant*vol)
     print "- Add {0} grams of 'chlorine' per day".format(chlorine_day*vol)
     print "- If TAC is high, means your products will have less effect, you will need to increse the quantities"
+    print
+    print "!!!!!!!!!!!!!!!!!!!!!!!!! IMPORTANT !!!!!!!!!!!!!!!!!!!!!!!!"
+    print "Do not get a bath after adding the products, always add the"
+    print "chemical products at the end of the they (when nobody is"
+    print "going to get a bath anymore until the next day"
+    print "!!!!!!!!!!!!!!!!!!!!!!!!! IMPORTANT !!!!!!!!!!!!!!!!!!!!!!!!"
 
 else:
     help()
